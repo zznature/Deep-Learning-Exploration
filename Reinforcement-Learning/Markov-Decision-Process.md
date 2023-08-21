@@ -1,0 +1,3 @@
+# Markov-Decision-Process
+
+The reinforcement learning problem is typically modeled using **Markov Decision Processes**. A Markov decision process (MDP) is defined by a tuple of four entities, where $S$ is the state space, $A$ is the action space, $T$ is the transition function that encodes the transition probabilities of the MDP and $r$ is the immediate reward obtained by taking action at a particular state.
